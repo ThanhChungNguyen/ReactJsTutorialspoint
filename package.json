@@ -1,0 +1,19 @@
+{
+  "name": "reactjstutorialspoint",
+  "version": "1.0.0",
+  "description": "Learning ReactJs from TutorialPoints",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThanhChungNguyen/ReactJsTutorialspoint.git"
+  },
+  "author": "ChungNT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThanhChungNguyen/ReactJsTutorialspoint/issues"
+  },
+  "homepage": "https://github.com/ThanhChungNguyen/ReactJsTutorialspoint#readme"
+}
